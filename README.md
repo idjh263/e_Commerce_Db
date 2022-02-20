@@ -39,4 +39,4 @@ https://opensource.org/licenses/MIT
 
 
 ## Credits 
-👪 Made by Irene with the help TA's, instructor @Trilogy,  Ethanlloyd21, cmelby and GOOGLE. 
+👪 Made by Irene with the help TA's, instructor @Trilogy,  esroleo, jpd61 and GOOGLE. 
